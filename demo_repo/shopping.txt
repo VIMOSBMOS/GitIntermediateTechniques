@@ -18,3 +18,4 @@ ice cream
 sugar
 flour
 
+#trying out git branch --merged
